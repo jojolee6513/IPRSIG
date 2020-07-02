@@ -6,6 +6,9 @@
 - Hyperspectral Image Classification Via Sample Expansion for Convolutional Neural Network, WHISPERS 2018, Jiaojiao Li, Qian Du, Bobo Xi, Yunsong Li, [[PDF]](https://doi.org/10.1109/WHISPERS.2018.8747245)
 ## Hyperspectral Image Super-Resolution
 - Hyperspectral Image Super-Resolution by Band Attention through Adversarial Learning, IEEE Transactions on Geoscience and Remote Sensing(2020), Jiaojiao Li, Ruxing Cui, Bo Li, Yunsong Li, Yuchao Dai, Rui Song, and Qian Du, [[PDF]](https://ieeexplore.ieee.org/document/8960413)
+- Hyperspectral Image Super-Resolution with 1D–2D Attentional Convolutional Neural Network, Remote Sensing(2019,11), Jiaojiao Li, Ruxing Cui, Bo Li, Rui Song, Yunsong Li, and Qian Du,  [[PDF]](https://www.researchgate.net/publication/337704194_Hyperspectral_Image_Super-Resolution_with_1D-2D_Attentional_Convolutional_Neural_Network)
+- Dual 1D-2D Spatial-Spectral CNN for HSI Super-Resolution, IEEE International Geoscience and Remote Sensing Symposium(IGARSS 2019), Jiaojiao Li, Ruxing Cui, Bo Li, Yunsong Li, Shaohui Mei, Qian Du,  [[PDF]](https://ieeexplore.ieee.org/document/8898352)
+- Multitemporal Hyperspectral Image Super-Resolution through 3D generative adversarial network, 10th Inernational Workshop on the Analysis of Multitemporal Remote Sensing Images(Multitemp2019), Jiaojiao Li, Ruxing Cui, Yunsong Li, Bo Li, Qian Du and Chiru Ge, [[PDF]](https://ieeexplore.ieee.org/abstract/document/8866956)
 ## Spectral Super-Resolution/Reconstruction
 - Adaptive Weighted Attention Network with Camera Spectral Sensitivity Prior for Spectral Reconstruction from RGB Images, CVPRW2020, Li J, Wu C, Song R, et al. [[PDF]](http://openaccess.thecvf.com/content_CVPRW_2020/html/w31/Li_Adaptive_Weighted_Attention_Network_With_Camera_Spectral_Sensitivity_Prior_for_CVPRW_2020_paper.html) [[Code]](https://github.com/Deep-imagelab/AWAN)
 
