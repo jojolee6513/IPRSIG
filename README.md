@@ -12,7 +12,7 @@
 - Dual 1D-2D Spatial-Spectral CNN for HSI Super-Resolution, IEEE International Geoscience and Remote Sensing Symposium(IGARSS 2019), Jiaojiao Li, Ruxing Cui, Bo Li, Yunsong Li, Shaohui Mei, Qian Du,  [[PDF]](https://ieeexplore.ieee.org/document/8898352)
 - Multitemporal Hyperspectral Image Super-Resolution through 3D generative adversarial network, 10th Inernational Workshop on the Analysis of Multitemporal Remote Sensing Images(Multitemp2019), Jiaojiao Li, Ruxing Cui, Yunsong Li, Bo Li, Qian Du and Chiru Ge, [[PDF]](https://ieeexplore.ieee.org/abstract/document/8866956)
 ## Spectral Super-Resolution/Reconstruction
-- Deep Hybrid 2-D-3-D CNN Based on Dual Second-Order Attention With Camera Spectral Sensitivity Prior for Spectral Super-Resolution, TNNLS 2021, Li J, Wu C, Song R, et al. [[PDF]] (https://ieeexplore.ieee.org/abstract/document/9506982/).
+- Deep Hybrid 2-D-3-D CNN Based on Dual Second-Order Attention With Camera Spectral Sensitivity Prior for Spectral Super-Resolution, TNNLS 2021, Li J, Wu C, Song R, et al. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9506982/) 
 - Adaptive Weighted Attention Network with Camera Spectral Sensitivity Prior for Spectral Reconstruction from RGB Images, CVPRW2020, Li J, Wu C, Song R, et al. [[PDF]](http://openaccess.thecvf.com/content_CVPRW_2020/html/w31/Li_Adaptive_Weighted_Attention_Network_With_Camera_Spectral_Sensitivity_Prior_for_CVPRW_2020_paper.html) [[Code]](https://github.com/Deep-imagelab/AWAN)
 - Hybrid 2-D 3-D Deep Residual Attentional Network With Structure Tensor Constraints for Spectral Super-Resolution of RGB Images, TGRS2021, Li J, Wu C, Song R, et al. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9133131)
 
