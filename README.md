@@ -15,6 +15,8 @@
 - Deep Hybrid 2-D-3-D CNN Based on Dual Second-Order Attention With Camera Spectral Sensitivity Prior for Spectral Super-Resolution, TNNLS 2021, Li J, Wu C, Song R, et al. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9506982/) 
 - Adaptive Weighted Attention Network with Camera Spectral Sensitivity Prior for Spectral Reconstruction from RGB Images, CVPRW2020, Li J, Wu C, Song R, et al. [[PDF]](http://openaccess.thecvf.com/content_CVPRW_2020/html/w31/Li_Adaptive_Weighted_Attention_Network_With_Camera_Spectral_Sensitivity_Prior_for_CVPRW_2020_paper.html) [[Code]](https://github.com/Deep-imagelab/AWAN)
 - Hybrid 2-D 3-D Deep Residual Attentional Network With Structure Tensor Constraints for Spectral Super-Resolution of RGB Images, TGRS2021, Li J, Wu C, Song R, et al. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9133131)
+- Residual Augmented Attentional U-Shaped Network for Spectral Reconstruction from RGB Images. RS2021. Li J, Wu C, Song R, et al. [[PDF]](https://www.mdpi.com/2072-4292/13/1/115)
+- Spectral Super-Resolution Using Hybrid 2D-3D Structure Tensor Attention Networks with Camera Spectral Sensitivity Prior. IGARSS 2020. Wu C, Li J, Song R, et al.  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9323553/)
 
 ## Hyperspectral Image Target Detection
 ## Remote Sensing Image Object Detection
