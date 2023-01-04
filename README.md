@@ -1,6 +1,7 @@
 ## Hyperspectral Fusion Classification
 - A Triplet Semisupervised Deep Network for Fusion Classification of Hyperspectral and LiDAR Data, IEEE Transactions on Geoscience and Remote Sensing, 2022, J. Li, Y. Ma, R. Song, B. Xi, D. Hong and Q. Du, doi: 10.1109/TGRS.2022.3213513.[[PDF]](https://ieeexplore.ieee.org/document/9915611)[[Code]](https://github.com/lyz123-xidian/TGRS-Sal2RN)
 - Sal2RN: A Spatial-Spectral Salient Reinforcement Network for Hyperspectral and LiDAR Data Fusion Classification,IEEE Transactions on Geoscience and Remote Sensing, 2022, J. Li, Y. Liu, R. Song, Y. Li, K. Han and Q. Du, doi: 10.1109/TGRS.2022.3231930.[[PDF]](https://ieeexplore.ieee.org/document/9998520)[[Code]](https://github.com/lyz123-xidian/TGRS-Sal2RN)
+Hyperspectral Pansharpening Using Deep Prior and Dual Attention Residual Network, IEEE Transactions on Geoscience and Remote Sensing, 2020, Y. Zheng, J. Li, Y. Li, J. Guo, X. Wu and J. Chanussot, doi: 10.1109/TGRS.2020.2986313.[[PDF]](https://ieeexplore.ieee.org/document/9076645)[[Code]](https://github.com/yxzheng24/IEEE_TGRS_DHP-DARN)
 ## Hyperspectral Image Classification
 - Few-shot Learning with Class-Covariance Metric for Hyperspectral Image Classification, IEEE Transactions on Image Processing, 2022, B. Xi, J. Li, Y. Li, R. Song, D. Hong, J. Chanussot, doi: 10.1109/TIP.2022.3192712.[[PDF]](https://github.com/B-Xi/TIP_2022_CMFSL)[[Code]](https://github.com/B-Xi/TIP_2022_CMFSL) 
 - Semisupervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification, IEEE Transactions on Neural Networks and Learning Systems, pp. 1-15, 2022. B. Xi, J. Li, Y. Li, R. Song, Y. Xiao, Q. Du, J. Chanussot. DOI: 10.1109/TNNLS.2022.3158280.[[PDF]](https://ieeexplore.ieee.org/document/9740412)[[Code]](https://github.com/B-Xi/TNNLS_2022_X-GPN) 
@@ -27,6 +28,4 @@
 - Residual Augmented Attentional U-Shaped Network for Spectral Reconstruction from RGB Images. RS2021. Li J, Wu C, Song R, et al. [[PDF]](https://www.mdpi.com/2072-4292/13/1/115) [[Code]](https://github.com/Deep-imagelab/RAAUN)
 - Spectral Super-Resolution Using Hybrid 2D-3D Structure Tensor Attention Networks with Camera Spectral Sensitivity Prior. IGARSS 2020. Wu C, Li J, Song R, et al.  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9323553/)
 
-## Hyperspectral Image Target Detection
-## Remote Sensing Image Object Detection
 
