@@ -1,3 +1,5 @@
+## Hyperspectral Fusion Classification
+- Sal2RN: A Spatial-Spectral Salient Reinforcement Network for Hyperspectral and LiDAR Data Fusion Classification, IEEE Transactions on Geoscience and Remote Sensing, 2022, J. Li, Y. Liu, R. Song, Y. Li, K. Han and Q. Du, doi: 10.1109/TGRS.2022.3231930.[[PDF]](https://ieeexplore.ieee.org/document/9998520)[[Code]](https://github.com/lyz123-xidian/TGRS-Sal2RN)
 ## Hyperspectral Image Classification
 - Few-shot Learning with Class-Covariance Metric for Hyperspectral Image Classification, IEEE Transactions on Image Processing, 2022, B. Xi, J. Li, Y. Li, R. Song, D. Hong, J. Chanussot, doi: 10.1109/TIP.2022.3192712.[[PDF]](https://github.com/B-Xi/TIP_2022_CMFSL)[[Code]](https://github.com/B-Xi/TIP_2022_CMFSL) 
 - Semisupervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification, IEEE Transactions on Neural Networks and Learning Systems, pp. 1-15, 2022. B. Xi, J. Li, Y. Li, R. Song, Y. Xiao, Q. Du, J. Chanussot. DOI: 10.1109/TNNLS.2022.3158280.[[PDF]](https://ieeexplore.ieee.org/document/9740412)[[Code]](https://github.com/B-Xi/TNNLS_2022_X-GPN) 
